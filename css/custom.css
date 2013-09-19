@@ -1,0 +1,165 @@
+body{
+
+          background-color: #e7e7e7;
+
+          padding: 0;
+
+          margin: 0;
+
+          color: #222222;
+
+          }
+
+.heading{
+
+          padding-bottom: 8px;
+
+          background-color: #2e3639;
+
+          margin-bottom: 30px;
+
+          }
+
+.container{
+
+          background-color: #fff;
+
+          border: 1px solid #ddd;
+
+          width: 580px;
+
+          padding-left: 85px;
+
+          padding-right: 85px;
+
+          margin-right: auto;
+
+          margin-left: auto;
+
+          }
+
+.container p {
+
+        font-family: georgia, "courier new", courier, monospace, 'Open Sans', 
+
+        sans-serif;
+
+		font-size: 17px;
+
+        line-height: 1.4em;
+
+        padding-bottom: 12px;
+
+        }
+
+.container li {
+
+          font-family: georgia, "courier new", courier, monospace, 'Open Sans',
+
+           sans-serif;
+
+          font-size: 16px;
+
+          line-height: 1.4em;
+
+          }
+
+
+
+.logo{
+
+          padding-top: 30px;
+
+          padding-bottom: 10px;
+
+          text-align: right;
+
+          }
+
+.box{
+
+          background-color: #2e3639;
+
+          color: #fff;
+
+          width: 460px;
+
+          border: none;
+
+          padding: 20px;
+
+          margin: 0 auto 30px;
+
+          }
+
+.box p{
+
+          font-family: Arial, Helvetica, Sans-Serif;
+
+          text-align: center;
+
+          font-size: 16px;
+
+          padding-bottom: 0px;
+
+          }
+
+ .box input{
+
+          display: block;
+
+          width: 96%;
+
+          border: none;
+
+          color: #222222;
+
+          padding: 2%;
+
+          margin-bottom: 10px;
+
+          font-size: 16px;
+
+          font-family: georgia, "courier new", courier, monospace, 'Open Sans',
+
+           sans-serif;
+
+          }
+
+ .box button{
+
+          width: 100%;
+
+          font-size: 16px;
+
+          padding: 2%;
+
+          display: block;
+
+          margin: 0 auto;
+
+          font-family: georgia, "courier new", courier, monospace, 'Open Sans', 
+
+          sans-serif;
+
+		  font-weight: bold;
+
+          color: #fff;
+
+          background-color: #5da423;
+
+          border: none;
+
+          }
+
+.box button:hover{
+
+          background-color: #457a1a; 
+
+          }
+
+ .box button:active{
+
+          border-top: 2px solid #5da423; 
+
+          background-color: #457a1a;
